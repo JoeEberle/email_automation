@@ -4,7 +4,7 @@
 
 ## Description
 
-Welcome to the ** Correlation Heatmap ** repository! This project demonstrates how to generate correlation heatmaps !!!   
+Welcome to the ** Email automation ** repository! This project demonstrates how to generate email automatically !!!   
 
 ![Code Logo](email_automation.png)
 
@@ -35,7 +35,7 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and C
 
 ## Getting Started
 
-To get started with the ** Correlation Heatmap ** project, follow these steps:
+To get started with the ** Email Automation ** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
