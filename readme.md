@@ -38,4 +38,4 @@ To get started with the **Email Automation** solution repository, follow these s
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](code..png)  <br>![additional_image](email_automation.png)  <br>![additional_image](sample..png)  <br>
+    ## Deliverables or Figures![additional_image](code..png)  <br>![additional_image](email_automation.png)  <br>![additional_image](sample..png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
