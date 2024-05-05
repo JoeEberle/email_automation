@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Email Automation - Solution for Email Automation
 Solution for Email Automation
 
@@ -9,8 +11,6 @@ Welcome to the solution **Email Automation** - an example for your projects
 Solution for Email Automation
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
