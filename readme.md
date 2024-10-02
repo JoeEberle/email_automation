@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Email Automation - 1. **Project Planning**: It helps in outlining the objectives, hypotheses, data sources, and analytical approaches to be used in the project. This can guide the team through the project phases.
-1. **Project Planning**: It helps in outlining the objectives, hypotheses, data sources, and analytical approaches to be used in the project. This can guide the team through the project phases.
+# Email Automation - Solution for Email Automation
+Solution for Email Automation
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Email Automation** - an example for your projects
 
-1. **Project Planning**: It helps in outlining the objectives, hypotheses, data sources, and analytical approaches to be used in the project. This can guide the team through the project phases.
+Solution for Email Automation
 
 ![Image image_filename](sample.png)
 
