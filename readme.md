@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Email Automation 
-    ## Solution for Email Automation
+    
+# Email Automation 
+
+## Solution for Email Automation
+
     ![Image image_filename](code.png)
 Welcome to the solution **Email Automation** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Email Automation** solution repository, follow these s
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Email Automation** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](code..png)  <br>![additional_image](email_automation.png)  <br>![additional_image](sample..png)  <br>
