@@ -51,13 +51,3 @@ To get started with the **Email Automation** solution repository, follow these s
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](code..png)  <br>![additional_image](email_automation.png)  <br>![additional_image](sample..png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
